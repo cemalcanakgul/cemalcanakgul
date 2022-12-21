@@ -97,7 +97,7 @@
 <a href="https://linkedin.com/in/cemalcanakgul" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/cemalcanakgul" target="_blank">
+<a href="https://medium.com/@cemalcanakgul" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/cemalcanakgul" target="_blank">
@@ -145,6 +145,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
